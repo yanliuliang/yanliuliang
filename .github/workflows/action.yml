@@ -24,7 +24,7 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: LazyIonEs
+          user: yanliuliang
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
